@@ -1,5 +1,4 @@
 package com.BankAccountFactory.java;
-
 import com.AccountType.java.AccountType;
 import com.bank.management.model.Account;
 import java.io.Serializable;

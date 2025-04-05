@@ -1,9 +1,6 @@
 package com.bank.management.model;
-
 import java.io.Serializable;
-
 import com.AccountType.java.AccountType;
-
 import com.InsufficientFundsException.java.InsufficientFundsException;
 
 public interface Account extends Serializable {
@@ -14,4 +11,3 @@ public interface Account extends Serializable {
     void printTransactionHistory();
     AccountType getAccountType();
 }
-

@@ -1,5 +1,4 @@
 package com.bank.management;
-
 import com.BankConsoleApp.java.BankConsoleApp;
 
 public class BankManagementSystem {
@@ -7,4 +6,3 @@ public class BankManagementSystem {
         BankConsoleApp.run();
     }
 }
-

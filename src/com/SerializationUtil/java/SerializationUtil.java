@@ -1,7 +1,5 @@
 package com.SerializationUtil.java;
-
 import com.bank.management.model.Account;
-
 import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
